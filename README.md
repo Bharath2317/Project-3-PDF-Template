@@ -1,2 +1,2 @@
 # What is tis app?
-This generates a PDF template
+This  app generates a PDF template
